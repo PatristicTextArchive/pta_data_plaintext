@@ -1,0 +1,3824 @@
+[
+    [
+        " ",
+        " ",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "advcl"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "det"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "κράτους",
+        "κράτος",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "cc"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλείου",
+        "βασιλεῖον",
+        "NOUN",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "conj"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [genitive], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "τῆς",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "det"
+    ],
+    [
+        "εὐσεβείας",
+        "εὐσέβεια",
+        "NOUN",
+        "Case: [nominative], Degree: [comparative], Gender: [neuter], Number: [singular]",
+        "conj"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [genitive], Gender: [masculine], Number: [plural]",
+        "det"
+    ],
+    [
+        "ἄκου­σον",
+        "ἄκου­σος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "case"
+    ],
+    [
+        "ἡμῶν",
+        "ἐγώ",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural], PronominalType: [interrogative]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Mood: [indicative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "τίνες",
+        "τίς",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "ἐστὲ",
+        "εἰμί",
+        "AUX",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "cop"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "πόθεν",
+        "πόθεν",
+        "ADV",
+        "Case: [vocative], Gender: [masculine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "κύριε",
+        "κύριος",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "vocative"
+    ],
+    [
+        "χριστιανοί",
+        "χριστιανός",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "πόθεν",
+        "πόθεν",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "ADV",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐκ",
+        "ἐκ",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "case"
+    ],
+    [
+        "ποίας",
+        "ποῖος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "πόλεως",
+        "πόλις",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Mood: [indicative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "ἀλεξανδρείας",
+        "ἀλεξανδρεία",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "τί",
+        "τίς",
+        "PRON",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "βούλεσθε",
+        "βούλομαι",
+        "VERB",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "ROOT"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [dative], Gender: [masculine], Number: [plural]",
+        "det"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Aspect: [perfective], Mood: [imperative], Number: [singular], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "κράτους",
+        "κράτος",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "βασιλείου",
+        "βασιλεῖον",
+        "NOUN",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "conj"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἐπίσκοπον",
+        "ἐπίσκοπος",
+        "NOUN",
+        "Case: [accusative], Degree: [positive], Gender: [neuter], Number: [singular]",
+        "obj"
+    ],
+    [
+        "ἡμῖν",
+        "ἐγώ",
+        "PRON",
+        "Case: [accusative], Gender: [masculine], Number: [singular], PronominalType: [relative]",
+        "obl"
+    ],
+    [
+        "δός",
+        "δίδωμι",
+        "VERB",
+        "Mood: [indicative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Definiteness: [definite], Gender: [neuter], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [accusative], Degree: [positive], Gender: [neuter], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Degree: [positive], Gender: [neuter], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ἐκέλευσα",
+        "κελεύω",
+        "VERB",
+        "Tense: [present], VerbForm: [infinitive], Voice: [middle]",
+        "ROOT"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "πρότερον",
+        "πρότερος",
+        "ADJ",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "ὅνπερ",
+        "ὅς",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "obj"
+    ],
+    [
+        "εἴχετε",
+        "ἔχω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ccomp"
+    ],
+    [
+        "τὸ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "πρότερον",
+        "πρότερος",
+        "ADJ",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "ἀθανά­σιον",
+        "ἀθανά­σιος",
+        "ADJ",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "καθέζεσθαι",
+        "κατά-ἕζομαι",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "xcomp"
+    ],
+    [
+        "ἐν",
+        "ἐν",
+        "ADP",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "case"
+    ],
+    [
+        "τῷ",
+        "ὁ",
+        "DET",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "θρόνῳ",
+        "θρόνος",
+        "NOUN",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [nominative], Gender: [neuter], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [middle]",
+        "det"
+    ],
+    [
+        "κράτους",
+        "κράτος",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "ADV",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐν",
+        "ἐν",
+        "ADP",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "case"
+    ],
+    [
+        "ἐξορισμῷ",
+        "ἐξορισμός",
+        "NOUN",
+        "Case: [genitive], Degree: [positive], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Person: [third], PronominalType: [personal]",
+        "cc"
+    ],
+    [
+        "ἐν",
+        "ἐν",
+        "ADP",
+        "Aspect: [perfective], Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "case"
+    ],
+    [
+        "κατηγορίᾳ",
+        "κατηγορία",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural], PronominalType: [interrogative]",
+        "obl"
+    ],
+    [
+        "ἐστὶν",
+        "εἰμί",
+        "AUX",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "cop"
+    ],
+    [
+        "ἔτη",
+        "ἔτος",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "conj"
+    ],
+    [
+        "πολλά",
+        "πολύς",
+        "ADJ",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "στρατιώτης",
+        "στρατιώτης",
+        "NOUN",
+        "Case: [nominative], Definiteness: [definite], Gender: [neuter], Number: [plural], PronominalType: [demonstrative]",
+        "nsubj"
+    ],
+    [
+        "ἐξαίφνης",
+        "ἐξαίφνης",
+        "ADV",
+        "Case: [nominative], Degree: [positive], Gender: [neuter], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "ζηλώσας",
+        "ζηλώζω",
+        "VERB",
+        "Case: [nominative], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "advcl"
+    ],
+    [
+        "ἀπεκρίνατο",
+        "ἀποκρίνω",
+        "VERB",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "δέομαί",
+        "δέω",
+        "VERB",
+        "Case: [genitive], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "ccomp"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Definiteness: [definite], Gender: [neuter], Number: [plural], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "βασιλείου",
+        "βασιλεῖον",
+        "ADJ",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "αὐτὸς",
+        "αὐτός",
+        "PRON",
+        "Case: [genitive], Definiteness: [definite], Gender: [neuter], Number: [singular], PronominalType: [demonstrative]",
+        "nsubj"
+    ],
+    [
+        "ἐξέτασον",
+        "ἐξέτασον",
+        "VERB",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "τίνες",
+        "τίς",
+        "PRON",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἰσὶ",
+        "εἰμί",
+        "AUX",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "cop"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [dative], Gender: [masculine], Number: [singular], Person: [third], PronominalType: [personal]",
+        "cc"
+    ],
+    [
+        "πόθεν",
+        "πόθεν",
+        "ADV",
+        "Case: [accusative], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "conj"
+    ],
+    [
+        "οὗτοι",
+        "οὗτος",
+        "PRON",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "γάρ",
+        "γάρ",
+        "ADV",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "εἰσι",
+        "εἰμί",
+        "AUX",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "cop"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Aspect: [perfective], Case: [nominative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "det"
+    ],
+    [
+        "λείψανα",
+        "λείψανος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "ἡ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "παραβολὴ",
+        "παραβολή",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "conj"
+    ],
+    [
+        "τῆς",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "καππαδοκίας",
+        "καππαδοκία",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "ὑπόλοιπα",
+        "ὑπόλοιπα",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀνοσίου",
+        "ἀνοσίον",
+        "NOUN",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "ἐκείνου",
+        "ἐκεῖνος",
+        "DET",
+        "Case: [accusative], Gender: [feminine], Number: [plural]",
+        "det"
+    ],
+    [
+        "γεωργίου",
+        "γεωργίον",
+        "NOUN",
+        "Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "οἱ",
+        "οὗ",
+        "PRON",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular], PronominalType: [relative]",
+        "det"
+    ],
+    [
+        "πόλιν",
+        "πόλις",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [passive]",
+        "cc"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Definiteness: [definite], Number: [plural], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "κόσμον",
+        "κόσμος",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "obj"
+    ],
+    [
+        "ἐρημώσαντες",
+        "ἐρημώσαντες",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "advcl"
+    ],
+    [
+        "ἀκούσας",
+        "ἀκούω",
+        "VERB",
+        "Case: [genitive], Degree: [positive], Gender: [neuter], Number: [singular]",
+        "advcl"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [genitive], Degree: [positive], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "ἐπτέρνισε",
+        "πτένρζω",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἵππον",
+        "ἵππος",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "cc"
+    ],
+    [
+        "ἀπῆλθεν",
+        "ἀπέρχομαι",
+        "VERB",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "εἰς",
+        "εἰς",
+        "ADP",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "case"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "κάμπον",
+        "κάμπος",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "κατηγορίας",
+        "κατηγορία",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [feminine], Number: [plural]",
+        "cc"
+    ],
+    [
+        "ἀποδείξεις",
+        "ἀποδείξις",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "conj"
+    ],
+    [
+        "ἔχομεν",
+        "ἔχω",
+        "VERB",
+        "Case: [nominative], Gender: [feminine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "κατὰ",
+        "κατά",
+        "ADP",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "case"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [dative], Gender: [masculine], Number: [singular], Person: [first]",
+        "obl"
+    ],
+    [
+        "ὅστις",
+        "ὅστις",
+        "PRON",
+        "Mood: [imperative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj:pass"
+    ],
+    [
+        "πρὸ",
+        "πρό",
+        "ADP",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "case"
+    ],
+    [
+        "δέκα",
+        "δέκα",
+        "NUM",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nummod"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "fixed"
+    ],
+    [
+        "εἴκοσι",
+        "εἴκοσι",
+        "NUM",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [passive]",
+        "fixed"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [passive]",
+        "fixed"
+    ],
+    [
+        "τριάκοντα",
+        "τριάκοντα",
+        "NUM",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "ἐτῶν",
+        "ἔτος",
+        "NOUN",
+        "Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "ἐξωρίσθη",
+        "ξωρίζω",
+        "VERB",
+        "Case: [accusative], Degree: [positive], Gender: [feminine], Number: [plural]",
+        "acl"
+    ],
+    [
+        "ἀπὸ",
+        "ἀπό",
+        "ADP",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "case"
+    ],
+    [
+        "τῶν",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀειμνήστων",
+        "ἀειμνήστων",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "κωνσταντίνου",
+        "κωνσταντίνου",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "advcl"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "cc"
+    ],
+    [
+        "κωνσταν­τίου",
+        "κωνσταν­τίον",
+        "ADJ",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "ἐπὶ",
+        "ἐπί",
+        "ADP",
+        "Case: [genitive], Definiteness: [definite], Number: [plural], PronominalType: [demonstrative]",
+        "case"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "det"
+    ],
+    [
+        "θεοφιλεστάτου",
+        "θεοφιλεστάτος",
+        "ADJ",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "conj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "cc"
+    ],
+    [
+        "φιλοσοφωτάτου",
+        "φιλοσοφωτάτος",
+        "NOUN",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "conj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Aspect: [perfective], Mood: [indicative], Number: [plural], Person: [second], Tense: [past], VerbForm: [finite], Voice: [middle]",
+        "cc"
+    ],
+    [
+        "μακαριωτάτου",
+        "μακαριωτάτος",
+        "NOUN",
+        "Case: [genitive], Gender: [masculine], Number: [plural], Person: [third], PronominalType: [personal], Reflexive: [pos]",
+        "conj"
+    ],
+    [
+        "ἰουλιανοῦ",
+        "ἰουλιανός",
+        "ADJ",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "nmod"
+    ],
+    [
+        "ἔσχε",
+        "ἔχω",
+        "VERB",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "conj"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἐξόρισιν",
+        "ἐξόρισις",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "obj"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "αἱ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [masculine], Number: [plural], Person: [second], PronominalType: [personal]",
+        "det"
+    ],
+    [
+        "πρὸ",
+        "πρό",
+        "ADP",
+        "Tense: [present], VerbForm: [infinitive], Voice: [middle]",
+        "case"
+    ],
+    [
+        "δέκα",
+        "δέκα",
+        "NUM",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "nummod"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "cc"
+    ],
+    [
+        "εἴκοσι",
+        "εἴκοσι",
+        "NUM",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "conj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "cc"
+    ],
+    [
+        "τριάκοντα",
+        "τριάκοντα",
+        "NUM",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "conj"
+    ],
+    [
+        "ἐτῶν",
+        "ἔτος",
+        "NOUN",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "κατηγορίαι",
+        "κατηγορία",
+        "NOUN",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "obj"
+    ],
+    [
+        "ἤδη",
+        "ἤδη",
+        "ADV",
+        "Case: [nominative], Gender: [neuter], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "παρῆλθον",
+        "παρέρχομαι",
+        "VERB",
+        "Case: [genitive], Definiteness: [definite], Gender: [neuter], Number: [singular], PronominalType: [demonstrative]",
+        "ROOT"
+    ],
+    [
+        "ἐμοὶ",
+        "ἐγώ",
+        "PRON",
+        "Case: [genitive], Degree: [positive], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "μὴ",
+        "μή",
+        "ADV",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "λέγετε",
+        "λέγω",
+        "VERB",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "ROOT"
+    ],
+    [
+        "περὶ",
+        "περί",
+        "ADP",
+        "Aspect: [perfective], Case: [genitive], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "case"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [accusative], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "obl"
+    ],
+    [
+        "οἶδα",
+        "οἶδα",
+        "VERB",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "γὰρ",
+        "γάρ",
+        "ADV",
+        "Case: [genitive], Gender: [feminine], Number: [plural], Person: [first], PronominalType: [personal]",
+        "advmod"
+    ],
+    [
+        "διά",
+        "διά",
+        "ADP",
+        "Case: [dative], Definiteness: [definite], Gender: [feminine], Number: [plural], PronominalType: [demonstrative]",
+        "case"
+    ],
+    [
+        "τι",
+        "τις",
+        "PRON",
+        "Case: [dative], Gender: [feminine], Number: [plural]",
+        "obl"
+    ],
+    [
+        "κατηγορήθη",
+        "κατηγορήθη",
+        "VERB",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "ccomp"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "πῶς",
+        "πῶς",
+        "ADV",
+        "Tense: [past], VerbForm: [infinitive], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "ἐξωρίσθη",
+        "ξωρίζω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "conj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "νῦν",
+        "νῦν",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "πάλιν",
+        "πάλιν",
+        "ADV",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "κατηγορίας",
+        "κατηγορία",
+        "NOUN",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "ἔχομεν",
+        "ἔχω",
+        "VERB",
+        "Case: [accusative], Gender: [masculine], Number: [singular], PronominalType: [interrogative]",
+        "ROOT"
+    ],
+    [
+        "ἄλλας",
+        "ἄλλος",
+        "ADJ",
+        "Mood: [subjunctive], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "τινὰς",
+        "τὶς",
+        "ADJ",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "obj"
+    ],
+    [
+        "κατὰ",
+        "κατά",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "case"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [dative], Gender: [feminine], Number: [plural], Person: [second], PronominalType: [personal]",
+        "ROOT"
+    ],
+    [
+        "οὐκ",
+        "οὐ",
+        "ADV",
+        "Case: [accusative], Definiteness: [definite], Gender: [neuter], Number: [plural], PronominalType: [demonstrative]",
+        "advmod"
+    ],
+    [
+        "ἐκ",
+        "ἐκ",
+        "ADP",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "case"
+    ],
+    [
+        "τῆς",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "πολυοχλίας",
+        "πολυοχλία",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [passive]",
+        "cc"
+    ],
+    [
+        "ἐκ",
+        "ἐκ",
+        "ADP",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "case"
+    ],
+    [
+        "τῶν",
+        "ὁ",
+        "DET",
+        "Case: [vocative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "πολυφωνημάτων",
+        "πολυφωνημάτων",
+        "NOUN",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "det"
+    ],
+    [
+        "δίκ­αια",
+        "δίκ­αιος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "conj"
+    ],
+    [
+        "φανήσεται",
+        "φαίνω",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "ἀλλ’",
+        "ἀλλά",
+        "CCONJ",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "ἢ",
+        "ἤ",
+        "CCONJ",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐκλέξασθε",
+        "ἐκλέξασθε",
+        "VERB",
+        "Aspect: [perfective], Mood: [subjunctive], Number: [singular], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "δύο",
+        "δύο",
+        "NUM",
+        "Case: [accusative], Degree: [positive], Gender: [neuter], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "ἐξ",
+        "ἐκ",
+        "ADP",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [passive]",
+        "case"
+    ],
+    [
+        "ἑαυτῶν",
+        "ἑαυτοῦ",
+        "PRON",
+        "Case: [nominative], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "obl"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "ἐκ",
+        "ἐκ",
+        "ADP",
+        "Case: [genitive], Gender: [feminine], Number: [plural], Person: [first], PronominalType: [personal]",
+        "case"
+    ],
+    [
+        "τῶν",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "πλήθους",
+        "πλῆθος",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "obl"
+    ],
+    [
+        "ἑτέρους",
+        "ἕτερος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "conj"
+    ],
+    [
+        "δύο",
+        "δύο",
+        "NUM",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nummod"
+    ],
+    [
+        "οὐ",
+        "οὐ",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "γὰρ",
+        "γάρ",
+        "ADV",
+        "Aspect: [perfective], Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [middle]",
+        "advmod"
+    ],
+    [
+        "δύναμαι",
+        "δύναμαι",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "πρὸς",
+        "πρός",
+        "ADP",
+        "Degree: [positive]",
+        "case"
+    ],
+    [
+        "ἕνα",
+        "εἷς",
+        "NUM",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "ἕκαστον",
+        "ἕκαστος",
+        "ADJ",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "obj"
+    ],
+    [
+        "ὑμῶν",
+        "ὑμεῖς",
+        "PRON",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "ἀποφαίνεσθαι",
+        "ἀποφαίνω",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [pluperfect], VerbForm: [finite], Voice: [active]",
+        "xcomp"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "det"
+    ],
+    [
+        "ἐκ",
+        "ἐκ",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "case"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "πλήθους",
+        "πλῆθος",
+        "NOUN",
+        "Case: [dative], Gender: [neuter], Number: [singular]",
+        "obl"
+    ],
+    [
+        "εἶπαν",
+        "εἶπον",
+        "VERB",
+        "Case: [dative], Gender: [neuter], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "οὗτοί",
+        "οὗτος",
+        "ADJ",
+        "Degree: [positive]",
+        "nsubj"
+    ],
+    [
+        "εἰσι",
+        "εἰμί",
+        "AUX",
+        "Aspect: [perfective], Mood: [subjunctive], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [middle]",
+        "cop"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Case: [dative], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "λείψανα",
+        "λείψανος",
+        "NOUN",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ἀπὸ",
+        "ἀπό",
+        "ADP",
+        "Mood: [indicative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "case"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀνοσίου",
+        "ἀνόσιος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "amod"
+    ],
+    [
+        "γεωργίου",
+        "γεωργίον",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἐρημώσαντος",
+        "ἐρημώσαντος",
+        "VERB",
+        "Case: [nominative], Gender: [neuter], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "ἐπαρχίαν",
+        "ἐπαρχία",
+        "NOUN",
+        "Case: [nominative], Gender: [feminine], Number: [plural], Person: [second], PronominalType: [personal]",
+        "appos"
+    ],
+    [
+        "ἡμῶν",
+        "ἡμεῖς",
+        "PRON",
+        "Aspect: [perfective], Mood: [imperative], Number: [plural], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [masculine], Number: [singular], Person: [third], PronominalType: [personal]",
+        "cc"
+    ],
+    [
+        "ἐν",
+        "ἐν",
+        "ADP",
+        "Degree: [positive]",
+        "case"
+    ],
+    [
+        "ταῖς",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "det"
+    ],
+    [
+        "πόλεσι",
+        "πόλις",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [pluperfect], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "βουλευτὴν",
+        "βουλευτός",
+        "NOUN",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "μὴ",
+        "μή",
+        "PART",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐάσαντος",
+        "ἐάσαντος",
+        "ADJ",
+        "Degree: [positive]",
+        "xcomp"
+    ],
+    [
+        "οἰκῆ­σαι",
+        "οἰκῆ­σαι",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "conj"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [dative], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Degree: [positive]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "εἴ",
+        "εἰ",
+        "SCONJ",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "mark"
+    ],
+    [
+        "τινα",
+        "τίς",
+        "PRON",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "ἂν",
+        "ἄν",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "θέλῃς",
+        "ἐθέλω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "advcl"
+    ],
+    [
+        "χωρὶς",
+        "χωρίς",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "case"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Definiteness: [definite], Gender: [neuter], Number: [plural], PronominalType: [demonstrative]",
+        "ROOT"
+    ],
+    [
+        "εἶπον",
+        "λέγω",
+        "VERB",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὑμῖν",
+        "ὑμεῖς",
+        "PRON",
+        "Case: [nominative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "iobj"
+    ],
+    [
+        "ὅτι",
+        "ὅτι",
+        "SCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "mark"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "περὶ",
+        "περί",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "case"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "obl"
+    ],
+    [
+        "ἤδη",
+        "ἤδη",
+        "ADV",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "διοίκησιν",
+        "διοίκησιν",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "ἔσχε",
+        "ἔχω",
+        "VERB",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ccomp"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "ADV",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "ὀργισ­θεὶς",
+        "ὀργισό­",
+        "VERB",
+        "Tense: [past], VerbForm: [infinitive], Voice: [middle]",
+        "advcl"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "φέρι",
+        "φήρ",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "φέρι",
+        "φήρ",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "obj"
+    ],
+    [
+        "ἐὰν",
+        "ἐάν",
+        "SCONJ",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "mark"
+    ],
+    [
+        "πέμψῃς",
+        "πέμπω",
+        "VERB",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advcl"
+    ],
+    [
+        "ἀθανάσιον",
+        "ἀθανάσιον",
+        "ADJ",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "xcomp"
+    ],
+    [
+        "λυμαίνεται",
+        "λυμαίνομαι",
+        "VERB",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "ccomp"
+    ],
+    [
+        "ἡ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "det"
+    ],
+    [
+        "πόλις",
+        "πόλις",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "ἡμῶν",
+        "ἡμεῖς",
+        "PRON",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "οὐδεὶς",
+        "οὐδείς",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "αὐτῷ",
+        "αὐτός",
+        "PRON",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "συνέρχεται",
+        "συνέρχομαι",
+        "VERB",
+        "Case: [nominative], Gender: [neuter], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "καίτοι",
+        "καίτοι",
+        "PART",
+        "Aspect: [perfective], Case: [genitive], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "περιεργασάμενος",
+        "περιεργασάμεν",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "xcomp"
+    ],
+    [
+        "ἔγνων",
+        "γιγνώσκω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "ὅτι",
+        "ὅτι",
+        "SCONJ",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "mark"
+    ],
+    [
+        "καλῶς",
+        "καλῶς",
+        "ADV",
+        "Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "φρονεῖ",
+        "φρονέω",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "ccomp"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "ὀρθό­δοξός",
+        "ὀρθό­δοξός",
+        "PROPN",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "conj"
+    ],
+    [
+        "ἐστι",
+        "εἰμί",
+        "AUX",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "cop"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Aspect: [perfective], Tense: [past], VerbForm: [infinitive], Voice: [active]",
+        "cc"
+    ],
+    [
+        "καλῶς",
+        "καλός",
+        "ADV",
+        "Polarity: [neg]",
+        "advmod"
+    ],
+    [
+        "διδάσκει",
+        "διδάσκω",
+        "VERB",
+        "Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "conj"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Definiteness: [definite], Gender: [neuter], Number: [plural], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [nominative], Gender: [feminine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "τῷ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [feminine], Number: [plural]",
+        "det"
+    ],
+    [
+        "μὲν",
+        "μέν",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "στόματι",
+        "στόμα",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "καλῶς",
+        "καλῶς",
+        "ADV",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "φθέγγεται",
+        "φθέγγομαι",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "τῇ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "det"
+    ],
+    [
+        "δὲ",
+        "δέ",
+        "ADV",
+        "Mood: [indicative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "ψυχῇ",
+        "ψυχή",
+        "NOUN",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "δολίως",
+        "δολίως",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "φρονεῖ",
+        "φρονέω",
+        "VERB",
+        "Mood: [indicative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [imperative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [passive]",
+        "nsubj"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "τοῦτο",
+        "οὗτος",
+        "ADJ",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "ἀρκετόν",
+        "ἀρκετος",
+        "ADJ",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "ἐστιν",
+        "εἰμί",
+        "AUX",
+        "Mood: [imperative], Number: [plural], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "cop"
+    ],
+    [
+        "ὅτι",
+        "ὅτι",
+        "SCONJ",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "mark"
+    ],
+    [
+        "ὑμεῖς",
+        "ὑμεῖς",
+        "PRON",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "ἐμαρτυρήσατε",
+        "ἐμαρτυρήζω",
+        "VERB",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "advcl"
+    ],
+    [
+        "περὶ",
+        "περί",
+        "ADP",
+        "Case: [dative], Gender: [masculine], Number: [plural]",
+        "case"
+    ],
+    [
+        "αὐτοῦ",
+        "αὐτός",
+        "PRON",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "ὅτι",
+        "ὅτι",
+        "SCONJ",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "mark"
+    ],
+    [
+        "καλῶς",
+        "καλῶς",
+        "ADV",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "φθέγγεται",
+        "φθέγγομαι",
+        "VERB",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advcl"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "cc"
+    ],
+    [
+        "καλῶς",
+        "καλός",
+        "ADV",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "advmod"
+    ],
+    [
+        "διδάσκει",
+        "διδάσκω",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "conj"
+    ],
+    [
+        "εἰ",
+        "εἰ",
+        "SCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "mark"
+    ],
+    [
+        "δὲ",
+        "δέ",
+        "ADV",
+        "Case: [genitive], Gender: [masculine], Number: [plural], Person: [second], PronominalType: [personal]",
+        "advmod"
+    ],
+    [
+        "τῇ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "γλώσσῃ",
+        "γλῶσσα",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [future], VerbForm: [finite], Voice: [active]",
+        "obl"
+    ],
+    [
+        "καλῶς",
+        "καλῶς",
+        "ADV",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "διδάσκει",
+        "διδάσκω",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "λέγει",
+        "λέγω",
+        "VERB",
+        "Aspect: [perfective], Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "conj"
+    ],
+    [
+        "τῇ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "δὲ",
+        "δέ",
+        "ADV",
+        "Case: [genitive], Definiteness: [definite], Gender: [feminine], Number: [singular], PronominalType: [demonstrative]",
+        "discourse"
+    ],
+    [
+        "ψυχῇ",
+        "ψυχή",
+        "NOUN",
+        "Case: [genitive], Gender: [feminine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "κακῶς",
+        "κακῶς",
+        "ADV",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "φρονεῖ",
+        "φρονέω",
+        "VERB",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "πρὸς",
+        "πρός",
+        "ADP",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "case"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "θεὸν",
+        "θεός",
+        "NOUN",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "ἔχει",
+        "ἔχω",
+        "VERB",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "advcl"
+    ],
+    [
+        "ἄνθρωποι",
+        "ἄνθρωπος",
+        "NOUN",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "γὰρ",
+        "γάρ",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "ὄντες",
+        "εἰμί",
+        "AUX",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "cop"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "λόγον",
+        "λόγος",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "obj"
+    ],
+    [
+        "ἀκούομεν",
+        "ἀκούω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Degree: [positive], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "δὲ",
+        "δέ",
+        "ADV",
+        "Case: [genitive], Definiteness: [definite], Number: [plural], PronominalType: [demonstrative]",
+        "discourse"
+    ],
+    [
+        "ἐγκάρδια",
+        "εἰγκάρδια",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [plural]",
+        "obj"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "θεὸς",
+        "θεός",
+        "NOUN",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "οἶδεν",
+        "οἶδα",
+        "VERB",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        " ",
+        " ",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "nmod"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "ROOT"
+    ],
+    [
+        "κέλευσον",
+        "κελεύω",
+        "VERB",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ἡμᾶς",
+        "ἐγώ",
+        "PRON",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "obj"
+    ],
+    [
+        "συνάγεσθαι",
+        "συνάγω",
+        "VERB",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "xcomp"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [nominative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "nsubj"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Aspect: [perfective], Case: [accusative], Gender: [neuter], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "τίς",
+        "τις",
+        "PRON",
+        "Case: [accusative], Definiteness: [definite], Gender: [feminine], Number: [plural], PronominalType: [demonstrative]",
+        "nsubj"
+    ],
+    [
+        "γὰρ",
+        "γάρ",
+        "PART",
+        "Case: [accusative], Gender: [feminine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "κωλύει",
+        "κωλύω",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὑμᾶς",
+        "σύ",
+        "PRON",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "αἱρεσιώτας",
+        "αἱρεσιώτη",
+        "ADJ",
+        "Case: [accusative], Definiteness: [definite], Gender: [feminine], Number: [plural], PronominalType: [demonstrative]",
+        "obj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [accusative], Gender: [feminine], Number: [plural]",
+        "cc"
+    ],
+    [
+        "δογματιστὰς",
+        "δογματιστὰς",
+        "VERB",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "advcl"
+    ],
+    [
+        "ἡμᾶς",
+        "ἐγώ",
+        "PRON",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "ἀπαγγέλ­λει",
+        "ἀπαγγέλ­λω",
+        "VERB",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "conj"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Mood: [subjunctive], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ἔργον",
+        "ἔργον",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "αὐτοῦ",
+        "αὐτός",
+        "PRON",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "ἐστι",
+        "εἰμί",
+        "AUX",
+        "Aspect: [perfective], Case: [nominative], Gender: [neuter], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "cop"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "τῶν",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "det"
+    ],
+    [
+        "καλῶς",
+        "καλός",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "διδασκόντων",
+        "διδασκόντων",
+        "VERB",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "οἱ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀρειανοὶ",
+        "ἀρειανός",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἶπον",
+        "εἶπον",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "δεόμεθά",
+        "δεόμεθά",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "κράτους",
+        "κράτος",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "τοῦτον",
+        "οὗτος",
+        "PRON",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "obj"
+    ],
+    [
+        "βαστάσαι",
+        "βαστάζω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "xcomp"
+    ],
+    [
+        "οὐ",
+        "οὐ",
+        "ADV",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "δυνάμεθα",
+        "δύναμαι",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "τὰ",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Definiteness: [definite], Gender: [neuter], Number: [singular], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "τεμένη",
+        "τεμένη",
+        "VERB",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "τῶν",
+        "ὁ",
+        "DET",
+        "Case: [genitive], Definiteness: [definite], Number: [plural], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "ἐκκλησιῶν",
+        "ἐκκλησία",
+        "NOUN",
+        "Case: [genitive], Gender: [masculine], Number: [plural]",
+        "nmod"
+    ],
+    [
+        "περιῄρει",
+        "περιῄρω",
+        "VERB",
+        "Aspect: [perfective], Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ccomp"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Degree: [positive], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Aspect: [perfective], Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [dative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "ROOT"
+    ],
+    [
+        "οὐκοῦν",
+        "οὐκοῦν",
+        "ADV",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἕνεκεν",
+        "ἕνεκα",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "case"
+    ],
+    [
+        "χρημάτων",
+        "χρῆμα",
+        "NOUN",
+        "Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "obl"
+    ],
+    [
+        "ἤλθετε",
+        "ἔρχομαι",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὧδε",
+        "ὧδε",
+        "ADV",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "cc"
+    ],
+    [
+        "οὐχ",
+        "οὐ",
+        "ADV",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "advmod"
+    ],
+    [
+        "ἕνεκεν",
+        "ἕνεκα",
+        "ADP",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "case"
+    ],
+    [
+        "πί­στεως",
+        "πί­στις",
+        "NOUN",
+        "Case: [genitive], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "conj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Aspect: [perfective], Mood: [imperative], Number: [singular], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "πάλιν",
+        "πάλιν",
+        "ADV",
+        "Case: [accusative], Gender: [masculine], Number: [singular], PronominalType: [interrogative]",
+        "advmod"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Mood: [subjunctive], Number: [plural], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "ἀπέλθετε",
+        "ἀπέλθω",
+        "VERB",
+        "Tense: [past], VerbForm: [infinitive], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "εἰρηνεύετε",
+        "εἰρηνεύω",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "conj"
+    ],
+    [
+        "ἔτι",
+        "ἔτι",
+        "ADV",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "προσθεὶς",
+        "προστίθημι",
+        "VERB",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advcl"
+    ],
+    [
+        "εἶπε",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "πρὸς",
+        "πρός",
+        "ADP",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "case"
+    ],
+    [
+        "τοὺς",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀρειανούς",
+        "ἀρειανός",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "ἀπέλθετε",
+        "ἀπέλθλω",
+        "VERB",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [passive]",
+        "ROOT"
+    ],
+    [
+        "εἰς",
+        "εἰς",
+        "ADP",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "case"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἐκκλησίαν",
+        "ἐκκλησία",
+        "NOUN",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "αὔριον",
+        "αὔριον",
+        "ADV",
+        "Case: [dative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "σύν­αξις",
+        "σύν­αξις",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "ὑμῖν",
+        "σύ",
+        "PRON",
+        "PronominalType: [interrogative]",
+        "obl"
+    ],
+    [
+        "ἐστι",
+        "εἰμί",
+        "AUX",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [second], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "cop"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "ADV",
+        "Mood: [subjunctive], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "μετὰ",
+        "μετά",
+        "ADP",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "case"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀπόλυσιν",
+        "ἀπόλυσις",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "ROOT"
+    ],
+    [
+        "εἰσὶν",
+        "εἰμί",
+        "AUX",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "cop"
+    ],
+    [
+        "ὧδε",
+        "ὧδε",
+        "ADV",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐπίσκοποι",
+        "ἐπίσκοπος",
+        "NOUN",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "νεμεσῖνος",
+        "νεμεσῖνος",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "ὧδέ",
+        "ὧδε",
+        "ADV",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "conj"
+    ],
+    [
+        "ἐστιν",
+        "εἰμί",
+        "AUX",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "cop"
+    ],
+    [
+        "ἕκαστος",
+        "ἕκαστος",
+        "ADJ",
+        "Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nsubj"
+    ],
+    [
+        "ὑμῶν",
+        "ὑμεῖς",
+        "PRON",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "καθὼς",
+        "καθώς",
+        "ADV",
+        "Case: [nominative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "advmod"
+    ],
+    [
+        "πιστεύει",
+        "πιστεύω",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὑπογράψει",
+        "ὑπογράπω",
+        "VERB",
+        "Case: [genitive], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "xcomp"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "ADV",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἀθανάσιος",
+        "ἀθανάσιος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ὧδέ",
+        "ὧδε",
+        "ADV",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐστιν",
+        "εἰμί",
+        "AUX",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "cop"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Degree: [positive], Gender: [feminine], Number: [singular]",
+        "det"
+    ],
+    [
+        "μὴ",
+        "μή",
+        "ADV",
+        "Case: [dative], Gender: [masculine], Number: [plural], Person: [third], PronominalType: [personal]",
+        "advmod"
+    ],
+    [
+        "εἰδὼς",
+        "οἶδα",
+        "VERB",
+        "Case: [dative], Gender: [neuter], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [dative], Definiteness: [definite], Gender: [masculine], Number: [plural], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "τῆς",
+        "ὁ",
+        "DET",
+        "Case: [dative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "det"
+    ],
+    [
+        "πίστεως",
+        "πίστις",
+        "NOUN",
+        "Case: [dative], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "nmod"
+    ],
+    [
+        "λόγον",
+        "λόγος",
+        "NOUN",
+        "Polarity: [neg]",
+        "obj"
+    ],
+    [
+        "μάθῃ",
+        "μάθος",
+        "ADJ",
+        "Mood: [subjunctive], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "παρὰ",
+        "παρά",
+        "ADP",
+        "Case: [accusative], Gender: [feminine], Number: [singular], Person: [second], PronominalType: [personal]",
+        "case"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "obl"
+    ],
+    [
+        "ἔχετε",
+        "ἔχω",
+        "VERB",
+        "Case: [accusative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "det"
+    ],
+    [
+        "αὔριον",
+        "αὔριον",
+        "ADV",
+        "Case: [accusative], Gender: [feminine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [nominative], Gender: [feminine], Number: [singular]",
+        "cc"
+    ],
+    [
+        "τὴν",
+        "ὁ",
+        "DET",
+        "Polarity: [neg]",
+        "det"
+    ],
+    [
+        "μεθαύρι­ον",
+        "μεθαύρι­ον",
+        "ADJ",
+        "Aspect: [perfective], Mood: [subjunctive], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "conj"
+    ],
+    [
+        "ἐκβαίνω",
+        "ἐκβαίνω",
+        "VERB",
+        "Case: [accusative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "ROOT"
+    ],
+    [
+        "γὰρ",
+        "γάρ",
+        "PART",
+        "Case: [accusative], Degree: [positive], Gender: [masculine], Number: [singular]",
+        "advmod"
+    ],
+    [
+        "ἐγὼ",
+        "ἐγώ",
+        "PRON",
+        "Case: [accusative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "εἰς",
+        "εἰς",
+        "ADP",
+        "Aspect: [perfective], Case: [accusative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [middle]",
+        "case"
+    ],
+    [
+        "κάμπον",
+        "κάμπος",
+        "NOUN",
+        "Case: [accusative], Gender: [feminine], Number: [plural]",
+        "obl"
+    ],
+    [
+        " ",
+        " ",
+        "VERB",
+        "Case: [nominative], Gender: [feminine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "ROOT"
+    ],
+    [
+        "καί",
+        "καί",
+        "CCONJ",
+        "Case: [genitive], Gender: [masculine], Number: [plural]",
+        "advmod"
+    ],
+    [
+        "τις",
+        "τις",
+        "PRON",
+        "Case: [genitive], Degree: [superlative], Gender: [masculine], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "σχολαστικὸς",
+        "σχολαστικός",
+        "ADJ",
+        "Case: [genitive], Gender: [masculine], Number: [singular]",
+        "amod"
+    ],
+    [
+        "τῶν",
+        "ὁ",
+        "DET",
+        "Mood: [optative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "κυνικῶν",
+        "κυνικός",
+        "ADJ",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "ἐνέτυχε",
+        "ἐντυγχάνω",
+        "VERB",
+        "Aspect: [perfective], Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [passive]",
+        "dep"
+    ],
+    [
+        "τῷ",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Definiteness: [definite], Gender: [masculine], Number: [plural], PronominalType: [demonstrative]",
+        "det"
+    ],
+    [
+        "βασιλεῖ",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "iobj"
+    ],
+    [
+        "δέομαι",
+        "δέω",
+        "VERB",
+        "Case: [accusative], Definiteness: [definite], Gender: [masculine], Number: [plural], PronominalType: [demonstrative]",
+        "ROOT"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "Aspect: [perfective], Case: [accusative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [middle]",
+        "det"
+    ],
+    [
+        "βασιλείου",
+        "βασιλεῖον",
+        "NOUN",
+        "Case: [genitive], Degree: [positive], Gender: [neuter], Number: [singular]",
+        "obj"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "det"
+    ],
+    [
+        "προφάσει",
+        "πρόφασις",
+        "NOUN",
+        "Case: [accusative], Definiteness: [definite], Gender: [masculine], Number: [plural], PronominalType: [demonstrative]",
+        "obl"
+    ],
+    [
+        "ἀθανασίου",
+        "ἀθανασίον",
+        "NOUN",
+        "Case: [accusative], Degree: [comparative], Gender: [masculine], Number: [plural]",
+        "nmod"
+    ],
+    [
+        "τοῦ",
+        "ὁ",
+        "DET",
+        "PronominalType: [relative]",
+        "det"
+    ],
+    [
+        "ἐπισκόπου",
+        "ἐπισκόπος",
+        "NOUN",
+        "Case: [genitive], Gender: [neuter], Number: [singular]",
+        "nmod"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Aspect: [perfective], Mood: [subjunctive], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [passive]",
+        "det"
+    ],
+    [
+        "καθολικὸς",
+        "καθολικός",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "τὰς",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [plural]",
+        "det"
+    ],
+    [
+        "οἰκίας",
+        "οἰκία",
+        "NOUN",
+        "Case: [nominative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [middle]",
+        "obj"
+    ],
+    [
+        "μου",
+        "ἐγώ",
+        "PRON",
+        "Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "det"
+    ],
+    [
+        "ἦρεν",
+        "ἀείρω",
+        "VERB",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "xcomp"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "det"
+    ],
+    [
+        "βασιλεὺς",
+        "βασιλεύς",
+        "NOUN",
+        "Case: [accusative], Gender: [masculine], Number: [plural]",
+        "nsubj"
+    ],
+    [
+        "εἶπεν",
+        "εἶπον",
+        "VERB",
+        "Case: [accusative], Degree: [comparative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "εἰ",
+        "εἰ",
+        "SCONJ",
+        "Aspect: [perfective], Case: [nominative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [active]",
+        "mark"
+    ],
+    [
+        "ὁ",
+        "ὁ",
+        "DET",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "det"
+    ],
+    [
+        "καθολικὸς",
+        "καθολικός",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nsubj"
+    ],
+    [
+        "τὰς",
+        "ὁ",
+        "DET",
+        "Tense: [present], VerbForm: [infinitive], Voice: [active]",
+        "det"
+    ],
+    [
+        "οἰκίας",
+        "οἰκία",
+        "NOUN",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [middle]",
+        "obj"
+    ],
+    [
+        "σου",
+        "σύ",
+        "PRON",
+        "Case: [genitive], Gender: [feminine], Number: [plural]",
+        "det"
+    ],
+    [
+        "ἦρε",
+        "αἴρω",
+        "VERB",
+        "Case: [accusative], Gender: [neuter], Number: [plural]",
+        "ROOT"
+    ],
+    [
+        "τί",
+        "τίς",
+        "PRON",
+        "Mood: [optative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "obj"
+    ],
+    [
+        "κοινὸν",
+        "κοινός",
+        "ADJ",
+        "Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]",
+        "nmod"
+    ],
+    [
+        "ἀθανασίῳ",
+        "ἀθανασίῳ",
+        "VERB",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "obj"
+    ],
+    [
+        "ἕτερός",
+        "ἕτερος",
+        "ADJ",
+        "Case: [nominative], Gender: [masculine], Number: [singular]",
+        "nmod"
+    ]
+]

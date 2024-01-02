@@ -1,0 +1,128 @@
+[
+    [
+        "καὶ",
+        "καί",
+        "CCONJ",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "cc"
+    ],
+    [
+        "σύνοδον",
+        "σύνοδον",
+        "NOUN",
+        "Case: [dative], Gender: [feminine], Number: [singular]",
+        "ROOT"
+    ],
+    [
+        "ἐν",
+        "ἐν",
+        "ADP",
+        "Case: [nominative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "case"
+    ],
+    [
+        "βιθυνίᾳ",
+        "βιθυνία",
+        "NOUN",
+        "Case: [dative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [active]",
+        "obl"
+    ],
+    [
+        "συγκροτήσαντες",
+        "συγκροτήσαντες",
+        "VERB",
+        "Case: [dative], Definiteness: [definite], Gender: [masculine], Number: [plural], PronominalType: [demonstrative]",
+        "advcl"
+    ],
+    [
+        "γράφουσι",
+        "γράφω",
+        "VERB",
+        "Case: [genitive], Degree: [comparative], Gender: [masculine], Number: [singular]",
+        "advcl"
+    ],
+    [
+        "τοῖς",
+        "ὁ",
+        "DET",
+        "Case: [dative], Gender: [masculine], Number: [plural], Tense: [present], VerbForm: [participle], Voice: [middle]",
+        "det"
+    ],
+    [
+        "πανταχῆ",
+        "πανταχῆ",
+        "ADJ",
+        "PronominalType: [relative]",
+        "obj"
+    ],
+    [
+        "ἐπισκόποις",
+        "ἐπίσκοπος",
+        "VERB",
+        "Degree: [positive]",
+        "cop"
+    ],
+    [
+        "ὡς",
+        "ὡς",
+        "ADV",
+        "Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "ὀρθῶς",
+        "ὀρθῶς",
+        "ADV",
+        "Tense: [past], VerbForm: [infinitive], Voice: [active]",
+        "advmod"
+    ],
+    [
+        "δοξάζουσι",
+        "δοξάζω",
+        "VERB",
+        "Case: [dative], Gender: [masculine], Number: [plural]",
+        "advcl"
+    ],
+    [
+        "κοινωνῆσαι",
+        "κοινωνέω",
+        "VERB",
+        "Case: [accusative], Definiteness: [definite], Gender: [masculine], Number: [singular], PronominalType: [demonstrative]",
+        "xcomp"
+    ],
+    [
+        "τοῖς",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Degree: [comparative], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἀμφὶ",
+        "ἀμφί",
+        "ADP",
+        "Case: [dative], Gender: [feminine], Number: [singular], Tense: [future], VerbForm: [participle], Voice: [active]",
+        "case"
+    ],
+    [
+        "τὸν",
+        "ὁ",
+        "DET",
+        "Case: [accusative], Gender: [neuter], Number: [singular]",
+        "det"
+    ],
+    [
+        "ἄρειον",
+        "ἀρείων",
+        "ADJ",
+        "Tense: [present], VerbForm: [infinitive], Voice: [active]",
+        "obj"
+    ],
+    [
+        "παρασκευάσαι",
+        "παρασκευάζω",
+        "VERB",
+        "Case: [dative], Gender: [masculine], Number: [plural]",
+        "ROOT"
+    ]
+]
